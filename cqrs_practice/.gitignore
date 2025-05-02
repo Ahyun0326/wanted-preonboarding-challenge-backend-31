@@ -1,8 +1,4 @@
-build/
-dist/
-*.egg-info/
-
-.DS_Store
+../../.DS_Store
 HELP.md
 .gradle
 build/
@@ -27,8 +23,6 @@ bin/
 *.iws
 *.iml
 *.ipr
-*.pyc
-__pycache__/
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
